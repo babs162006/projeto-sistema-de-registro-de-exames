@@ -1,1 +1,1 @@
-# projeto-sistema-de-registro-de-exames
+# Sistema de registro de exames
